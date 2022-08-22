@@ -1,0 +1,3 @@
+https://gb.ru/lessons/259437 - URL с двумя вложениями
+https://yandex.ru/search/?lr=21625&search_source=morda_desktop_common&text=python - URL c GET параметрами
+https://gbcdn.mrgcdn.ru/uploads/asset/3837545/attachment/ea339085b3e71e102b4846854069e62f.pdf - индификатор пдф документа
